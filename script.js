@@ -1,7 +1,5 @@
 var { PythonShell } = require('python-shell');
 
-var command = 'open1';
-var comport = 6;
 
 var options = {
     scriptPath: '../',
