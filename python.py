@@ -3,3 +3,4 @@ import sys
 
 name=sys.argv[2]
 print(name)
+print("hello")
